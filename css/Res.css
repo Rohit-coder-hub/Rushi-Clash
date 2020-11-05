@@ -15,3 +15,36 @@ footer {
     color: #fff;
 }
 
+.container{
+    position:relative;
+    text-align:center;
+    color:red;
+}
+.centered{
+    position:absolute;
+    top:23%;
+    left:46.5%;
+    transform:translate(-20%,-30%);
+    font-size:4vh;
+}
+.center-top{
+    position:absolute;
+    top:32%;
+    left:46.5%;
+    transform:translate(-20%,-30%);
+    font-size:11vh;
+}
+.bottom-left{
+    position:absolute;
+    top:49%;
+    left:36%;
+    font-size:10vh;
+    color:green;
+}
+.bottom-right{
+    position:absolute;
+    top:49%;
+    left:53%;
+    font-size:10vh;
+    color:green;
+}
