@@ -1,0 +1,17 @@
+.box {
+    margin: 1vh;
+    padding: 0;
+    margin-top: 2vh;
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+    border: 0px;
+    font-family: sans-serif;
+    background: #002244;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 1);
+}
+footer {
+    background-color: #010c16;
+    color: #fff;
+}
+
